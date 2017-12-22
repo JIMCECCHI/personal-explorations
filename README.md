@@ -16,3 +16,6 @@ is what I hope to accomplish.
 Personal explorations for me is to find out what I need to focus on. Now how I learn to use this Github with my general writing and 
 as a platform for my ideas to be clarified.
 12/
+https://guides.github.com/activities/hello-world/
+this link is to the guide that I am following to learn how to use Github. I already 
+have several other windows open in Chrome relating to my JAVA and Android learning sites.
